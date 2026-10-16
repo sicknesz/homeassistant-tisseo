@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "domain": "tisseo",
+  "name": "tisseo",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/tisseo",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@sicknesz"
+  ]
+}
